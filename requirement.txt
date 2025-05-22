@@ -1,0 +1,7 @@
+torch==2.2.2+cpu
+numpy==1.26.1
+scikit-learn==1.5.2
+pygame==2.6.1
+pymunk==5.7.0
+matplotlib==3.7.1
+perlin-noise==1.13
